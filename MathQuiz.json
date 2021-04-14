@@ -1,0 +1,91 @@
+{
+    "title": "Number Systems",
+    "questions": [
+        {
+            "questionText": "If the binary number 110101001100 is converted to octal, how many digits will the octal number contain?",
+            "choices": ["3", "4", "5", "6", "not enough information"],
+            "answer": 1
+        },
+        {
+            "questionText": "In the hexadecimal system, how many numbers are there between 58 and 62 (not including 58 and 62)?",
+            "choices": ["3", "6", "9", "12", "not enough information"],
+            "answer": 2
+        },
+        {
+            "questionText": "In the octal number system, 77 + 1 = ?",
+            "choices": ["78", "80", "100", "777", "none of the above"],
+            "answer": 2
+        },
+        {
+            "questionText": "If the left-most digit of a hexadecimal number is 1, and all of the other digits are 0, then number must be:",
+            "choices": [
+                "a power of 16",
+                "a power of 8",
+                "a power of 2",
+                "all of the above",
+                "none of the above"
+            ],
+            "answer": 3
+        },
+        {
+            "questionText": "16 ^ 2222 = ",
+            "choices": [
+                "2 ^ 8888",
+                "8 ^ 4444",
+                "10 ^ 6666",
+                "not enough information"
+            ],
+            "answer": 0
+        },
+        {
+            "questionText": "What is the decimal equivalent of the largest seven-digit binary number?",
+            "choices": [
+                "255",
+                "256",
+                "512",
+                "1000000",
+                "not enough information"
+            ],
+            "answer": 0
+        },
+        {
+            "questionText": "Which of the following is a valid number in a base-6 system?",
+            "choices": [
+                "45",
+                "55",
+                "65",
+                "a and b",
+                "b and c",
+                "all of the above"
+            ],
+            "answer": 3
+        },
+        {
+            "questionText": "A bus can hold 24 passengers, and a car can hold 3 passengers. If every bus used must be full, what is the minimum number of vehicles needed to transport 100 people?",
+            "choices": ["4", "5", "6", "7", "not enough information"],
+            "answer": 2
+        },
+        {
+            "questionText": "Which of the following statements is true?",
+            "choices": [
+                "Every power of 8 is a power of 2",
+                "Every power of 8 is a power of 16",
+                "Every power of 2 is a power of 8",
+                "Every power of 16 is a power of 8."
+            ],
+            "answer": 0
+        },
+        {
+            "questionText": "Let n be an integer greater than 1. Which of the following numbers is greater than 0?",
+            "choices": [
+                "n * n % n / n",
+                "n * n / n % n",
+                "n / n % n * n",
+                "n / n * n % n",
+                "n % n * n / n",
+                "n % n / n * n"
+            ],
+            "answer": 2
+        }
+    ]
+}
